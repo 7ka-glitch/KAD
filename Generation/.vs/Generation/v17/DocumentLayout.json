@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KAD-2025\\Generation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E90C722-0D36-42D6-95B1-0C89BBDD67DF}|Generation\\Generation.vcxproj|D:\\KAD-2025\\Generation\\Generation\\Generation.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E90C722-0D36-42D6-95B1-0C89BBDD67DF}|Generation\\Generation.vcxproj|solutionrelative:Generation\\Generation.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EC951E-DBD0-4D7F-B4C3-406B1C57AFD6}|GenLib\\GenLib.vcxproj|D:\\KAD-2025\\Generation\\GenLib\\GenLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5EC951E-DBD0-4D7F-B4C3-406B1C57AFD6}|GenLib\\GenLib.vcxproj|solutionrelative:GenLib\\GenLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E90C722-0D36-42D6-95B1-0C89BBDD67DF}|Generation\\Generation.vcxproj|D:\\KAD-2025\\Generation\\Generation\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E90C722-0D36-42D6-95B1-0C89BBDD67DF}|Generation\\Generation.vcxproj|solutionrelative:Generation\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generation.asm",
+              "DocumentMoniker": "D:\\KAD-2025\\Generation\\Generation\\Generation.asm",
+              "RelativeDocumentMoniker": "Generation\\Generation.asm",
+              "ToolTip": "D:\\KAD-2025\\Generation\\Generation\\Generation.asm",
+              "RelativeToolTip": "Generation\\Generation.asm",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-14T22:54:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenLib.cpp",
+              "DocumentMoniker": "D:\\KAD-2025\\Generation\\GenLib\\GenLib.cpp",
+              "RelativeDocumentMoniker": "GenLib\\GenLib.cpp",
+              "ToolTip": "D:\\KAD-2025\\Generation\\GenLib\\GenLib.cpp",
+              "RelativeToolTip": "GenLib\\GenLib.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-14T22:52:38.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "D:\\KAD-2025\\Generation\\Generation\\stdafx.cpp",
+              "RelativeDocumentMoniker": "Generation\\stdafx.cpp",
+              "ToolTip": "D:\\KAD-2025\\Generation\\Generation\\stdafx.cpp",
+              "RelativeToolTip": "Generation\\stdafx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-14T22:45:53.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\KAD-2025\GraphicInterface\GraphicInterface\bin\Debug\GraphicInterface.exe.config
+D:\KAD-2025\GraphicInterface\GraphicInterface\bin\Debug\GraphicInterface.exe
+D:\KAD-2025\GraphicInterface\GraphicInterface\bin\Debug\GraphicInterface.pdb
+D:\KAD-2025\GraphicInterface\GraphicInterface\obj\Debug\GraphicInterface.csproj.AssemblyReference.cache
+D:\KAD-2025\GraphicInterface\GraphicInterface\obj\Debug\GraphicInterface.Form1.resources
+D:\KAD-2025\GraphicInterface\GraphicInterface\obj\Debug\GraphicInterface.Properties.Resources.resources
+D:\KAD-2025\GraphicInterface\GraphicInterface\obj\Debug\GraphicInterface.csproj.GenerateResource.cache
+D:\KAD-2025\GraphicInterface\GraphicInterface\obj\Debug\GraphicInterface.csproj.CoreCompileInputs.cache
+D:\KAD-2025\GraphicInterface\GraphicInterface\obj\Debug\GraphicInterface.exe
+D:\KAD-2025\GraphicInterface\GraphicInterface\obj\Debug\GraphicInterface.pdb
